@@ -1,4 +1,6 @@
 package exceptions;
 
-public class NegativeWeightException extends Exception {
+public class NegativeWeightException extends Exception
+{
+
 }
